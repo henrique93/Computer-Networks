@@ -1,11 +1,9 @@
-# Redes
+# Computer Networks
 
-TO DO:
+[Pedro Portugal](https://github.com/Minhoka) 69405
 
-CLIENT - TRS
+[Gustavo Gomes](https://github.com/gus-gomes) 75948
 
-TRS - CLIENT
+[Henrique Lourenço](https://github.com/henrique93) 77459 henrique.lourenco@tecnico.ulisboa.pt
 
-TRS - TCS
-
-AULA DE DUVIDAS - TRS fecha depois de cada traducao???
+# Project IST 2016/2017
